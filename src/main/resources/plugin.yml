@@ -1,0 +1,8 @@
+name: ConsoleSpamFix
+version: '1.0-SNAPSHOT'
+main: org.anarchadia.csf.CSF
+api-version: '1.21'
+commands:
+  csf:
+    description: reloads csf
+    usage: /csf reload
